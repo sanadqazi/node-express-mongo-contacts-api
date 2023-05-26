@@ -6,7 +6,9 @@ This project is about creating API's by using Express JS Node JS, MongoDB and Mo
 3. Put following configuration in it:
 
 PORT = //your port
+
 CONNECTION_STRING = //mongodb connection string
+
 ACCESS_TOKEN_SECRET = //accesstoken_secret
 
 4. Run the project.
